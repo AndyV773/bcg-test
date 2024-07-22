@@ -480,16 +480,23 @@ main {
     letter-spacing: 2px;
     font-size: 280%;
     margin-left: 0;
+    margin-top: 80px;
 }
 
 #submit-div p {
-    margin-top: 75px;
+    margin: 75px 20px 0 20px;
     font-size: 180%;
     color: #fff;
 }
 
-#submit-div a {
-    margin-top: 1175px;
+#submit-div-anchor {
+    margin-top: 75px;
+}
+
+#submit-div-anchor a {
+    text-decoration: none;
+    font-size: 180%;
+    color: #c0c0c0;
 }
 
 /* footer */
