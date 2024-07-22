@@ -261,20 +261,19 @@ main {
 }
 
 #our-services div {
-    background: linear-gradient(to bottom right, #fff 10%, #ccc 30%);
+    background: linear-gradient(to bottom left, #fff 10%, #ccc 70%);
     border-radius: 2px;
     margin: 10px;
     display: flex;
-    flex: 1 500px;
+    flex: 1 800px;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 #our-services img {
     width: 100%;
-    max-width: 800px;
-    max-height: 800px;
     padding: 10px;
-    flex: 1 500px;
+    flex: 1 600px;
 }
 
 #our-services fieldset {
@@ -283,7 +282,7 @@ main {
     min-width: 220px;
     margin: 20px;
     padding-left: 2px;
-    flex: 1 200px;
+    flex: 1 300px;
 }
 
 #our-services legend {
@@ -848,6 +847,11 @@ main {
 
     /* services page */
     /* our services */
+    #our-services img {
+        width: 500px;
+        height: 500px;
+    }
+
     .services-quote:hover {
         text-decoration: underline;
         text-shadow: 2px 2px 8px #c0c0c0;
