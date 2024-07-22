@@ -462,7 +462,25 @@ main {
 }
 
 /* submit page */
+#submit-div {
+    flex: 1 400px;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 2px;
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    height: 552px;
+}
 
+#submit-div h1 {
+    font-family: "Great Vibes", cursive;
+    text-decoration: underline;
+    text-shadow: 2px 2px 8px #FF0000;
+    rotate: -5deg;
+    letter-spacing: 2px;
+    font-size: 280%;
+    margin-left: 0;
+}
 
 /* footer */
 #footer-section {
