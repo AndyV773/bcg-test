@@ -25,9 +25,38 @@ My original design placed the navbar at the bottom of the hero image, but I stru
 
 The next step is to work on a landing page for the contact.html, so that clients will get a response after filling in the contact form. I will also be making some adjustments to the sizing and positioning of images and text on the service page.
 
-## Installation
+## Testing
 
-There are no specific installation instructions for this project currently.
+-
+
+## Bugs
+
+## Validator Testing
+
+- HTML
+  -   
+
+- CSS 
+  -
+
+- Accessibility
+  -
+
+### Unfixed Bugs
+
+-
+
+## Deployment 
+
+## Credits 
+
+### Content
+
+- The code for the css dropdown navbar was taken from the CI Love Running Project.
+
+### Media 
+
+- The images where all taken from Google.
 
 ## Usage
 
