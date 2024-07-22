@@ -864,6 +864,11 @@ main {
         background-color: #fff;
     }
 
+    /* submit page */
+    #submit-div-anchor a:hover {
+        text-decoration: underline;
+    }
+
     /* footer */
     /* footer services list hover */
     #footer-services-list a:hover {
@@ -928,6 +933,11 @@ main {
     }
 
     #iframe-div {
+        height: 560px;
+    }
+
+    /* submit page */
+    #submit-div {
         height: 560px;
     }
 }
