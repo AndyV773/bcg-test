@@ -217,6 +217,7 @@ main {
     color: #ccad00;
     font-size: 180%;
     padding: 10px;
+    text-shadow: 1px 1px 1px black;
 }
 
 #why-us {
@@ -231,7 +232,8 @@ main {
 }
 
 #why-us a {
-    color: #ccad00;
+    /* color: #ccad00;
+    text-shadow: 1px 1px 1px black; */
 }
 
 /* services page */
