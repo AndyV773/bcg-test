@@ -371,7 +371,7 @@ main {
     margin: 10px 10px 0 10px;
     padding: 20px;
     color: #fff;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #404040;
     border-radius: 2px;
 }
 
@@ -394,7 +394,7 @@ main {
     margin: 10px;
     padding: 15px;
     border-radius: 2px;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #404040;
 }
 
 #contact-form h2 {
@@ -471,7 +471,7 @@ main {
     margin: 10px;
     padding: 15px;
     border-radius: 2px;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #404040;
     text-align: center;
     height: 552px;
 }
@@ -953,7 +953,7 @@ main {
 /* ringing animation */
 @keyframes ring {
 
-    /* percentages for the delay (around 6 seconds) */
+    /* percentages for the delay (around 8 seconds) */
     0%,
     93% {
         transform: rotate(0deg);
