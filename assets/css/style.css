@@ -161,7 +161,7 @@ main {
     letter-spacing: 2px;
     top: 30px;
     left: 10px;
-    text-shadow: 2px 2px 8px #ccad00;
+    text-shadow: 2px 2px 8px #000;
     text-decoration: underline;
     font-size: 180%;
     rotate: -5deg;
@@ -240,11 +240,6 @@ main {
     width: 100%;
     height: 300px;
     position: relative;
-}
-
-/* to override id logo style */
-#services-banner h1 {
-    text-shadow: 2px 2px 8px #000;
 }
 
 #services-heading fieldset {
@@ -449,8 +444,8 @@ main {
     padding: 10px 20px;
     border-radius: 2px;
     font-size: 100%;
-    color: #fff;
-    background-color: #ccad00;
+    color: #000;
+    background-color: #ccc;
 }
 
 #iframe-div {
@@ -868,8 +863,7 @@ main {
     }
 
     #send-button:hover {
-        color: #ccad00;
-        background-color: #fff;
+        background-color: #ccad00;
     }
 
     /* submit page */
