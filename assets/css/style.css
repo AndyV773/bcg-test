@@ -852,6 +852,13 @@ main {
         text-shadow: 2px 2px 8px #c0c0c0;
     }
 
+    /* services page */
+    /* our services */
+    #our-services fieldset {
+        flex-basis: 500px;
+    }
+    
+
     /* contact page */
     #contact-details a:hover {
         text-decoration: underline;
