@@ -161,7 +161,7 @@ main {
     letter-spacing: 2px;
     top: 30px;
     left: 10px;
-    text-shadow: 2px 2px 8px #FF0000;
+    text-shadow: 2px 2px 8px #ccad00;
     text-decoration: underline;
     font-size: 180%;
     rotate: -5deg;
@@ -242,6 +242,11 @@ main {
     position: relative;
 }
 
+/* to override id logo style */
+#services-banner h1 {
+    text-shadow: 2px 2px 8px #000;
+}
+
 #services-heading fieldset {
     width: 90%;
     margin: 5px auto;
@@ -261,7 +266,7 @@ main {
 }
 
 #our-services div {
-    background: linear-gradient(to bottom left, #fff 10%, #ccc 70%);
+    background: linear-gradient(to bottom right, #fff 10%, #ccc 50%);
     border-radius: 2px;
     margin: 10px;
     display: flex;
@@ -474,7 +479,7 @@ main {
 #submit-div h1 {
     font-family: "Great Vibes", cursive;
     text-decoration: underline;
-    text-shadow: 2px 2px 8px #FF0000;
+    text-shadow: 2px 2px 8px #ccad00;
     rotate: -5deg;
     letter-spacing: 2px;
     font-size: 280%;
@@ -493,7 +498,6 @@ main {
 }
 
 #submit-div-anchor a {
-    text-decoration: none;
     font-size: 180%;
     color: #c0c0c0;
 }
@@ -870,7 +874,7 @@ main {
 
     /* submit page */
     #submit-div-anchor a:hover {
-        text-decoration: underline;
+        text-shadow: 2px 2px 8px #ccad00;
     }
 
     /* footer */
