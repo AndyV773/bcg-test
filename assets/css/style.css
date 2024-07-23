@@ -231,11 +231,6 @@ main {
     width: 100%;
 }
 
-#why-us a {
-    /* color: #ccad00;
-    text-shadow: 1px 1px 1px black; */
-}
-
 /* services page */
 #services-banner {
     background: url("../images/under-construction.webp") no-repeat center center/cover;
@@ -850,13 +845,6 @@ main {
     /* hero image */
     #tel:hover {
         text-shadow: 2px 2px 8px #ccad00;
-    }
-
-    /* services page */
-    /* our services */
-    #our-services img {
-        width: 500px;
-        height: 500px;
     }
 
     .services-quote:hover {
