@@ -56,7 +56,7 @@ The next step is to work on a landing page for the contact.html, so that clients
 
 ### Media 
 
-- The images where all taken from Google.
+- The images where taken from Google.
 
 ## Usage
 
