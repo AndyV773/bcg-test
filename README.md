@@ -51,6 +51,18 @@ Significant effort was dedicated to designing and implementing the footer to ens
 
 ### Home Page
 
+The home page is designed to engage visitors and provide them with essential information about the contractor and the services offered. It includes the following features and sections:
+
+- **Hero Image:** A captivating hero image is displayed at the top of the page to catch visitors' eyes. The logo is positioned at the top left corner of the hero image, and an interactive phone number is located at the bottom right corner. The phone number includes an animated phone icon that moves every 8 seconds to attract attention.
+  
+![screenshot of main page hero image and header](assets/media/index-1.webp)
+
+- **Reasons Section:**
+  - **About Me:** This section provides some information about the contractor, including their background, expertise, and values. It features an image to help personalize the introduction.
+  - **Why Choose Us:** This section outlines the key reasons why potential clients should choose the contractor. It highlights unique selling points and benefits, accompanied by an image to enhance visual appeal. Additionally, it includes two anchor tags: one that takes you to the contact page and another that takes you to the services page.
+
+![screenshot of main content reasons secton with about and why choose us information including two images](assets/media/index-2.webp)  
+
 ### Services Offered
 - Kitchens
 - Doors
