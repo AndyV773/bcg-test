@@ -445,7 +445,7 @@ main {
     border-radius: 2px;
     font-size: 100%;
     color: #000;
-    background-color: #ccc;
+    background-color: #ccad00;
 }
 
 #iframe-div {
@@ -863,7 +863,7 @@ main {
     }
 
     #send-button:hover {
-        background-color: #ccad00;
+        background-color: #ccc;
     }
 
     /* submit page */
