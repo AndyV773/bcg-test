@@ -4,14 +4,20 @@ BCG Building Contractor is a website project created to help showcase the servic
 
 ![screenshot of index.html from i am responsive website displaying it in all sized devices](assets/media/responsive-index.webp)
 
-## Features
+## Project Overview
 
-This project is a simple website designed to describe and display the services provided by a building contractor. The website aims to help the contractor reach a wider audience and make it easier for potential clients to get in touch.
+This project is a simple website designed to showcase the services provided by a building contractor. The primary goal is to help the contractor reach a wider audience and make it easier for potential clients to get in touch. The website features a color scheme of gold and silver, complemented by black and grey tones, to create a professional and elegant look.
 
-### Pages
-- Home
-- Services
-- Contact
+### Features
+
+- **Consistent Header:** The header uses fixed positioning to remain consistent throughout the website. Originally, the navbar was intended to be displayed below the main image, but there were issues with using sticky positioning.
+- **Responsive Design:** The navbar and logo adjust for smaller screens to ensure a great user experience across all devices.
+- **Customizable Branding:** The logo and images used on the website can be easily changed to better suit the client's branding and preferences.
+- **Stylish Design:** The website includes a slight 30% fade at the bottom of the header to enhance its appearance and blend seamlessly with the hero image.
+- **Three Main Pages:** The website is structured around three main pages, providing clear and organized information about the contractor's services.
+
+![screenshot of main header for the website](assets/media/header.webp)
+
 
 ### Services Offered
 - Kitchens
