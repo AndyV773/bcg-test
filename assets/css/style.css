@@ -917,6 +917,10 @@ main {
         align-self: center;
     }
 
+    #footer-menu li {
+        margin-left: 100px;
+    }
+
     /* footer copyright menu hover */
     #footer-menu a:hover {
         border-bottom: 1px solid #c0c0c0;
