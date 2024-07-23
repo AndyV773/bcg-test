@@ -8,7 +8,9 @@ BCG Building Contractor is a website project created to help showcase the servic
 
 This project is a simple website designed to showcase the services provided by a building contractor. The primary goal is to help the contractor reach a wider audience and make it easier for potential clients to get in touch. The website features a color scheme of gold and silver, complemented by black and grey tones, to create a professional and elegant look.
 
-### Features
+## Features
+
+### Header
 
 - **Consistent Header:** The header uses fixed positioning to remain consistent throughout the website. Originally, the navbar was intended to be displayed below the main image, but there were issues with using sticky positioning.
 - **Responsive Design:** The navbar and logo adjust for smaller screens to ensure a great user experience across all devices.
@@ -18,6 +20,36 @@ This project is a simple website designed to showcase the services provided by a
 
 ![screenshot of main header for the website](assets/media/header.webp)
 
+### Footer
+
+The footer is a significant part of the website, designed to be consistent across all three pages and providing comprehensive information. It consists of several sections, each serving a specific purpose:
+
+- **Our Services section:** 
+  - This section lists all the services offered by the contractor.
+  - Each service is linked to the corresponding section on the service page for easy navigation.
+
+- **Contact Section:** 
+  - Contains all the client's contact details including address, company number, phone number, and email.
+  - All contact details are interactive, allowing users to click to call or send an email directly.
+
+- **Social Section:** 
+  - Displays relevant social media information and links.
+  - Helps users connect with the contractor on various social media platforms.
+
+- **Copyright Information:** 
+  - Located at the bottom of the footer, this section includes copyright details.
+  - A small navigation menu is also included for quick access to other parts of the site.
+
+#### Design and Accessibility
+
+- **Two-Tone Design:** The footer is designed with two tones to visually separate different sections, enhancing the overall look and readability.
+- **Responsive Layout:** The footer is optimized to look good and function well on all devices, ensuring a consistent user experience across desktops, tablets, and smartphones.
+
+Significant effort was dedicated to designing and implementing the footer to ensure it is both informative and visually appealing. This part of the project took up most of the development time due to the attention to detail and the need for comprehensive functionality.
+
+![screenshot of the footer for the website with all relative information](assets/media/footer.webp)
+
+### Home Page
 
 ### Services Offered
 - Kitchens
