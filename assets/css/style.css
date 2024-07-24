@@ -934,7 +934,7 @@ main {
     }
 
     #footer-menu li {
-        margin-left: 100px;
+        margin-left: 80px;
     }
 
     /* lower footer hover */
@@ -967,6 +967,11 @@ main {
     /* submit information */
     #submit-div {
         height: 570px;
+    }
+
+    /* lower footer */
+    #footer-menu li {
+        margin-left: 100px;
     }
 }
 
