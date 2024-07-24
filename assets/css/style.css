@@ -201,6 +201,7 @@ main {
     margin: 10px auto;
 }
 
+/* about */
 #about {
     margin-top: 20px;
     box-sizing: 2px;
@@ -213,20 +214,21 @@ main {
 }
 
 #about legend,
-#why-us legend {
+#why-choose-us legend {
     color: #ccad00;
     font-size: 180%;
     padding: 10px;
     text-shadow: 1px 1px 1px black;
 }
 
-#why-us {
+/* why choose us */
+#why-choose-us {
     box-sizing: 2px;
     border-color: #404040;
     margin-top: 20px;
 }
 
-#why-us img {
+#why-choose-us img {
     margin-top: 20px;
     width: 100%;
 }
@@ -343,12 +345,14 @@ main {
     font-size: 280%;
 }
 
+/* contact section */
 #contact-section {
     display: flex;
     flex-wrap: wrap;
     margin-top: 150px;
 }
 
+/* contact details */
 #contact-details {
     flex: 1 400px;
     display: flex;
@@ -381,6 +385,7 @@ main {
     text-decoration: none;
 }
 
+/* contact form */
 #contact-form {
     flex: 1 400px;
     margin: 10px;
@@ -451,6 +456,7 @@ main {
     padding: 30px 30px 30px 0;
 }
 
+/* map of Canary Wharf */
 #iframe-div {
     flex: 1 500px;
     margin: 10px;
@@ -464,6 +470,7 @@ main {
 }
 
 /* submit page */
+/* submit information */
 #submit-div {
     flex: 1 400px;
     margin: 10px;
@@ -575,7 +582,7 @@ main {
     text-decoration: none;
 }
 
-/* socail menu */
+/* footer social and trade links */
 #footer-social-div {
     display: flex;
     justify-content: center;
@@ -616,7 +623,7 @@ main {
     border-radius: 2px;
 }
 
-/* footer copyright menu */
+/* lower footer */
 #copyright {
     background-color: #000;
     color: #c0c0c0;
@@ -749,6 +756,7 @@ main {
     }
 
     /* reasons section */
+    /* about */
     #about {
         display: flex;
     }
@@ -767,18 +775,19 @@ main {
         flex: 1 100px;
     }
 
-    #why-us {
+    /* why choose us */
+    #why-choose-us {
         display: flex;
         flex-flow: row-reverse;
     }
 
-    #why-us fieldset {
+    #why-choose-us fieldset {
         align-self: center;
         max-width: 800px;
         flex: 2 300px;
     }
 
-    #why-us img {
+    #why-choose-us img {
         padding: 20px;
         width: 400px;
         max-width: 600px;
@@ -796,7 +805,8 @@ main {
         letter-spacing: 6px;
         font-size: 360%;
     }
-
+    
+    /* contact section */
     #contact-section {
         margin-top: 170px;
     }
@@ -844,6 +854,7 @@ main {
 
     /* main content */
     /* hero image */
+    /* hero image hover */
     #tel:hover {
         text-shadow: 2px 2px 8px #ccad00;
     }
@@ -861,16 +872,20 @@ main {
     
 
     /* contact page */
+    /* contact details hover */
     #contact-details a:hover {
         text-decoration: underline;
         color: #c0c0c0;
     }
 
+    /* contact form hover */
     #send-button:hover {
         background-color: #ccc;
     }
 
     /* submit page */
+    /* submit information */
+    /* submit information hover */
     #submit-div-anchor a:hover {
         text-shadow: 2px 2px 8px #ccad00;
     }
@@ -896,8 +911,8 @@ main {
         text-decoration: underline;
     }
 
-    /* social and trade links */
-    /* social networks hover and trade links hover */
+    /* footer social and trade links */
+    /* footer social and trade links hover */
     #social-networks i:hover {
         text-shadow: 2px 2px 8px #ccad00;
     }
@@ -907,7 +922,7 @@ main {
         box-shadow: 2px 2px 8px #ccad00;
     }
 
-    /* footer copyright menu */
+    /* lower footer */
     #copyright {
         display: flex;
         justify-content: space-evenly;
@@ -922,7 +937,7 @@ main {
         margin-left: 10px;
     }
 
-    /* footer copyright menu hover */
+    /* lower footer hover */
     #footer-menu a:hover {
         border-bottom: 1px solid #c0c0c0;
     }
@@ -947,6 +962,7 @@ main {
     }
 
     /* submit page */
+    /* submit information */
     #submit-div {
         height: 560px;
     }
