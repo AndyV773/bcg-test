@@ -30,6 +30,11 @@ h3 {
     rotate: -2deg;
 }
 
+/* to hide some of the logo in navbar for smaller devices */
+.hidden-logo {
+    display: none;
+}
+
 .hidden-heading {
     display: none;
 }
@@ -695,6 +700,12 @@ main {
 
 /* media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+    
+    /* general styles */
+    /* to show larger logo in navbar for larger devices */
+    .hidden-logo {
+        display: unset;
+    }
 
     /* header */
     /* nav menu */
@@ -706,7 +717,7 @@ main {
         background: none;
         width: fit-content;
         padding-left: 1rem;
-        left: 60px;
+        left: 7rem;
     }
 
     #menu {
@@ -714,7 +725,7 @@ main {
     }
 
     #menu>li {
-        padding-left: 1rem;
+        padding-left: 2rem;
     }
 
     .nav-toggle-label {
