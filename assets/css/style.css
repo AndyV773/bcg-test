@@ -493,13 +493,13 @@ main {
 }
 
 #submit-div p {
-    margin: 75px 20px 0 20px;
+    margin: 100px 20px 0 20px;
     font-size: 180%;
     color: #fff;
 }
 
 #submit-div-anchor {
-    margin-top: 75px;
+    margin-top: 100px;
 }
 
 #submit-div-anchor a {
@@ -953,18 +953,20 @@ main {
     }
 
     /* contact page */
+    /* contact form */
     .form-input {
         height: 30px;
     }
 
+    /* map of Canary Wharf */
     #iframe-div {
-        height: 560px;
+        height: 570px;
     }
 
     /* submit page */
     /* submit information */
     #submit-div {
-        height: 560px;
+        height: 570px;
     }
 }
 
