@@ -934,7 +934,7 @@ main {
     }
 
     #footer-menu li {
-        margin-left: 80px;
+        margin-left: 30px;
     }
 
     /* lower footer hover */
@@ -971,7 +971,7 @@ main {
 
     /* lower footer */
     #footer-menu li {
-        margin-left: 100px;
+        margin-left: 80px;
     }
 }
 
