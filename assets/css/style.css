@@ -597,6 +597,7 @@ main {
     font-size: 40px;
     padding: 5px;
     color: #fff;
+    margin: 10px 0;
 }
 
 #my-builder {
@@ -918,7 +919,7 @@ main {
     }
 
     #footer-menu li {
-        margin-left: 100px;
+        margin-left: 10px;
     }
 
     /* footer copyright menu hover */
