@@ -87,14 +87,39 @@ The next step is to work on a landing page for the contact.html, so that clients
 
 ## Validator Testing
 
-- HTML
-  -   
+### HTML
 
-- CSS 
-  -
+- The website's HTML has passed the offical HTML Validator, ensuring that there are no issues and complys with web standards.
+  - [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fandyv773.github.io%2Fbcg-test%2F)
 
-- Accessibility
-  -
+![screenshot of website passing html validator](assets/media/html-validator.webp)    
+
+### CSS 
+
+- The website's CSS has passed the offical CSS Validator, ensuring that there are no issues and complys with web standards.
+  - [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fandyv773.github.io%2Fbcg-test&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) 
+
+![screenshot of css validator website passing css](assets/media/css-validator.webp)
+
+   [![valid css](http://jigsaw.w3.org/css-validator/images/vcss)](http://jigsaw.w3.org/css-validator/check/referer)
+
+- There is one warning regarding the imported stylesheet from Google Fonts, but this does not affect the functionality or appearance of the website.
+
+![screenshot of css validator warning regarding imported stylesheet](assets/media/css-warning.webp)
+
+### Accessibility
+
+- Home
+
+![lighthouse test results of home page reading 100% on accessability](assets/media/lighthouse-index.webp)
+
+- Services
+
+![lighthouse test results of services page reading 100% on accessability](assets/media/lighthouse-services.webp)
+
+- contact 
+
+![lighthouse test results of contact page reading 100% on accessability](assets/media/lighthouse-contact.webp)
 
 ### Unfixed Bugs
 
