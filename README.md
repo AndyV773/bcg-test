@@ -6,7 +6,9 @@ BCG Building Contractor is a website project created to help showcase the servic
 
 ## Project Overview
 
-This project is a simple website designed to showcase the services provided by a building contractor. The primary goal is to help the contractor reach a wider audience and make it easier for potential clients to get in touch. The website features a color scheme of gold and silver, complemented by black and grey tones, to create a professional and elegant look.
+This project is a website designed to showcase the services provided by a building contractor. The primary goal is to help the contractor reach a wider audience and make it easier for potential clients to get in touch. The website features a color scheme of gold and silver, complemented by black and grey tones, to create a professional and elegant look.
+
+My original design placed the navbar at the bottom of the hero image, but I struggled to get it to work correctly with sticky positioning. This project began as a practice website, so my Git commits were not done as they should have been. I also made a lot of trial-and-error changes to get things working correctly and did not want these reflected in my commit messages. However, I now realize this approach was incorrect. I have since committed my web design and will commit any further changes properly.
 
 ## Features
 
@@ -73,16 +75,6 @@ The home page is designed to engage visitors and provide them with essential inf
 - Extensions
 - New Builds
 
-## Description
-
-My original design placed the navbar at the bottom of the hero image, but I struggled to get it to work correctly with sticky positioning. This project began as a practice website, so my Git commits were not done as they should have been. I also made a lot of trial-and-error changes to get things working correctly and did not want these reflected in my commit messages. However, I now realize this approach was incorrect. I have since committed my web design and will commit any further changes properly.
-
-The next step is to work on a landing page for the contact.html, so that clients will get a response after filling in the contact form. I will also be making some adjustments to the sizing and positioning of images and text on the service page.
-
-## Testing
-
--
-
 ## Bugs
 
 ## Validator Testing
@@ -107,19 +99,23 @@ The next step is to work on a landing page for the contact.html, so that clients
 
 ![screenshot of css validator warning regarding imported stylesheet](assets/media/css-warning.webp)
 
-### Accessibility
+### Lighthouse Testing
+
+#### Accessibility
 
 - Home
+  - I have made sure that the website has achieved a 100% accessibility score in Lighthouse testing, ensuring it is user-friendly and accessible to all visitors.
 
-![lighthouse test results of home page reading 100% on accessability](assets/media/lighthouse-index.webp)
+![lighthouse test results of home page reading 100% on accessibility](assets/media/lighthouse-index.webp)
 
 - Services
 
-![lighthouse test results of services page reading 100% on accessability](assets/media/lighthouse-services.webp)
+![lighthouse test results of services page reading 100% on accessibility](assets/media/lighthouse-services.webp)
 
-- contact 
+- Contact
+  - The performance score for the contact page is lower due to the iframes maps, and cookies, which will be looked into at a later date.
 
-![lighthouse test results of contact page reading 100% on accessability](assets/media/lighthouse-contact.webp)
+![lighthouse test results of contact page reading 100% on accessibility](assets/media/lighthouse-contact.webp)
 
 ### Unfixed Bugs
 
