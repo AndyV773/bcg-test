@@ -6,7 +6,7 @@ BCG Building Contractor is a website project created to help showcase the servic
 
 ## Project Overview
 
-This project is a website designed to showcase the services provided by a building contractor. The primary goal is to help the contractor reach a wider audience and make it easier for potential clients to get in touch. The website features a color scheme of gold and silver, complemented by black and grey tones, to create a professional and elegant look.
+This project is a website designed to showcase the services provided by a building contractor. The primary goal is to help the contractor reach a wider audience and make it easier for potential clients to get in touch. The website features a color scheme of gold and silver, complemented by black and grey tones, to create a professional and elegant look that goes well with the imported Google font "Great Vibes".
 
 My original design placed the navbar at the bottom of the hero image, but I struggled to get it to work correctly with sticky positioning. This project began as a practice website, so my Git commits were not done as they should have been. I also made a lot of trial-and-error changes to get things working correctly and did not want these reflected in my commit messages. However, I now realize this approach was incorrect. I have since committed my web design and will commit any further changes properly.
 
@@ -65,7 +65,11 @@ The home page is designed to engage visitors and provide them with essential inf
 
 ![screenshot of main content reasons secton with about and why choose us information including two images](assets/media/index-2.webp)  
 
-### Services Offered
+### Services Page
+
+The service page is aimed at providing a brief description of the different services offered by the contractor. Each service is presented with an image and a breif description to give potential clients a clear understanding of what is available.
+
+#### Services Offered
 - Kitchens
 - Doors
 - Architraves
@@ -74,8 +78,17 @@ The home page is designed to engage visitors and provide them with essential inf
 - Loft Extensions
 - Extensions
 - New Builds
+---
+- **Main Image:** At the top of the service page, there is a large image similar to the home page, but reduced in height. The logo is positioned at the top left corner, and an interactive phone number is located at the bottom right corner with animated phone icon.
 
-## Bugs
+![screenshot of main image on services page](assets/media/main-image-services.webp)
+
+- **Design:** The page is designed using a table format to organize the content effectively, with a faded background to enhance readability and visual appeal. Each service includes an icon to the left, making it easy to identify. The information is overlined with a fieldset with a legend title for clear categorization. Service descriptions include unordered list items to highlight key points or features.
+- **Get in Touch Link:** Each service description includes a "Get in Touch" link that takes potential customers to the contact section, facilitating easy communication and inquiries.
+
+![screenshot of the services page images](assets/media/images-services.webp)
+
+![screenshot of the service page information](assets/media/information-services.webp)
 
 ## Validator Testing
 
