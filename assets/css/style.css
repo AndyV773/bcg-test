@@ -27,7 +27,7 @@ h3 {
     color: #ccad00;
     font-family: "Great Vibes", cursive;
     text-decoration: underline;
-    rotate: -2deg;
+    transform: rotate(-2deg);
 }
 
 .hidden-heading {
@@ -94,7 +94,7 @@ li a {
     left: 60px;
     padding: 0 5px 5px 0;
     color: #ccad00;
-    rotate: -3deg;
+    transform: rotate(-3deg);
 }
 
 /* to hide some of the logo in navbar for smaller devices */
@@ -169,7 +169,7 @@ main {
     text-shadow: 2px 2px 8px #000;
     text-decoration: underline;
     font-size: 180%;
-    rotate: -5deg;
+    transform: rotate(-5deg);
 }
 
 #get-in-touch-div {
@@ -209,7 +209,6 @@ main {
 /* about */
 #about {
     margin-top: 20px;
-    box-sizing: 2px;
     border-color: #404040;
 }
 
@@ -228,7 +227,6 @@ main {
 
 /* why choose us */
 #why-choose-us {
-    box-sizing: 2px;
     border-color: #404040;
     margin-top: 20px;
 }
@@ -295,8 +293,7 @@ main {
     color: #ccad00;
     text-shadow: 1px 1px 1px black;
     padding: 0 5px 0 5px;
-    rotate: -2deg;
-
+    transform: rotate(-2deg);
 }
 
 #our-services tr {
@@ -490,7 +487,7 @@ main {
     font-family: "Great Vibes", cursive;
     text-decoration: underline;
     text-shadow: 2px 2px 8px #ccad00;
-    rotate: -5deg;
+    transform: rotate(-5deg);
     letter-spacing: 2px;
     font-size: 280%;
     margin-left: 0;
