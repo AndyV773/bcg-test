@@ -52,7 +52,7 @@ The footer is a significant part of the website, designed to be consistent acros
 - **Design and Accessibility**
 
   - **Two-Tone Design:** The footer is designed with two tones to visually separate different sections, enhancing the overall look and readability.
-  - **Responsive Layout:** The footer is optimized to look good and function well on all devices, ensuring a consistent user experience across desktops, tablets, and smartphones.
+  - **Responsive Design:** The footer is optimized to look good and function well on all devices, ensuring a consistent user experience across desktops, tablets, and smartphones.
 
 ![screenshot of footer layout for smaller devices](assets/media/small-footer.webp)
 
@@ -90,16 +90,29 @@ The service page is aimed at providing a brief description of the different serv
 
 ![screenshot of main image on services page](assets/media/main-image-services.webp)
 
-- **Design:** The page is designed using a table format to organize the content effectively, with a faded background to enhance readability and visual appeal. Each service includes an icon to the left, making it easy to identify. The information is overlined with a fieldset with a legend title for clear categorization. Service descriptions include unordered list items to highlight key points or features.
-- **Get in Touch Link:** Each service description includes a "Get in Touch" link that takes potential customers to the contact section, facilitating easy communication and inquiries.
+- **Design:** The page is designed using a table format to organize the content effectively, with a faded background to enhance readability and visual appeal. Each service includes an icon to the left, making it easy to identify. The information is overlined with a fieldset with a legend title for clear categorization. Service descriptions include unordered list items to highlight key points or features. Each service description includes a "Get in Touch" link that takes potential customers to the contact section, facilitating easy communication and inquiries.
 
 ![screenshot of the services page images](assets/media/images-services.webp)
 
 ![screenshot of the service page information](assets/media/information-services.webp)
 
+- **Responsive Design:**
+
+![screenshot of services.html from i am responsive website displaying it in all sized devices](assets/media/responsive-services.webp)
+
 ### Contact Page
 
+- **Contact Page:** The contact page is designed to facilitate easy and painless communication between potential customers and the client. It offers multiple options to get in touch, including an interactive phone number, an interactive email link, a form for customers to fill in their details, and a map showing the client's location. Additionally, all the footer information is available on this page.
 
+![screenshot of contact page on website](assets/media/contact.webp)
+
+- **Submit Page:** The form is linked to a submit page that thanks the customer for their interest and informs them that the client will get back in touch as soon as possible. This is achieved by adding a dummy page and wrapping the form button in an anchor tag. Although this approach is not best practice and causes an error in the CSS validator, it was done for demonstration purposes only. The submit page retains the rest of the contact page information, allowing customers to explore other contact options if they need immediate assistance. A link is also provided to return to the home page.
+
+![screenshot of submit page on website](assets/media/submit-contact.webp)
+
+- **Responsive Design:**
+
+![screenshot of contact.html from i am responsive website displaying it in all sized devices](assets/media/responsive-contact.webp)
 
 ## Validator Testing
 
