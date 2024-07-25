@@ -2,7 +2,7 @@
 
 BCG Building Contractor is a website project created to help showcase the services of a building firm. The website provides information about the various services that can be provided, such as kitchen installations, door fittings, architraves, fencing, roofing, loft extensions, and new builds. It aims to help potential clients find and contact the contractor online.
 
-![screenshot of index.html from i am responsive website displaying it in all sized devices](assets/media/responsive-index.webp)
+![screenshot of index.html from i am responsive website displaying it in all sized devices](assets/media/resp-index.webp)
 
 ## Project Overview
 
@@ -51,10 +51,12 @@ The footer is a significant part of the website, designed to be consistent acros
 
 - **Design and Accessibility**
 
-  - **Two-Tone Design:** The footer is designed with two tones to visually separate different sections, enhancing the overall look and readability.
+  - **Two-Tone Design:** The footer is designed with two tones to visually separate the lower footer, enhancing the overall look and readability.
   - **Responsive Design:** The footer is optimized to look good and function well on all devices, ensuring a consistent user experience across desktops, tablets, and smartphones.
 
 ![screenshot of footer layout for smaller devices](assets/media/small-footer.webp)
+
+![screenshot of the footer from i am responsive website displaying it in all sized devices](assets/media/resp-footer.webp)
 
 Significant effort was dedicated to designing and implementing the footer to ensure it is both informative and visually appealing. This part of the project took up most of the development time due to the attention to detail and the need for comprehensive functionality.
 
@@ -98,7 +100,7 @@ The service page is aimed at providing a brief description of the different serv
 
 - **Responsive Design:**
 
-![screenshot of services.html from i am responsive website displaying it in all sized devices](assets/media/responsive-services.webp)
+![screenshot of services.html from i am responsive website displaying it in all sized devices](assets/media/resp-services.webp)
 
 ### Contact Page
 
@@ -112,7 +114,7 @@ The service page is aimed at providing a brief description of the different serv
 
 - **Responsive Design:**
 
-![screenshot of contact.html from i am responsive website displaying it in all sized devices](assets/media/responsive-contact.webp)
+![screenshot of contact.html from i am responsive website displaying it in all sized devices](assets/media/resp-contact.webp)
 
 ## Validator Testing
 
