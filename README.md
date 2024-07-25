@@ -169,6 +169,14 @@ The service page is aimed at providing a brief description of the different serv
 - **Contact Page:**
   - Iframes map, Best Practices.
 
+## Wireframe
+
+I experimented with Balsamiq but found it to be more of a learning curve than a necessity for this project. I preferred diving straight into HTML and CSS. However, I did create some wireframes in Balsamiq to outline the website layout. Here are a few images of those wireframes.
+
+![screenshot of sketches in balsamiq](assets/media/bals-sketch.webp)
+
+![screenshot of wireframe in balsamiq](assets/media/bals-wireframe.webp)
+
 ## Credits 
 
 ### Content
