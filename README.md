@@ -10,6 +10,8 @@ This project is a website designed to showcase the services provided by a buildi
 
 My original design placed the navbar at the bottom of the hero image, but I struggled to get it to work correctly with sticky positioning. This project began as a practice website, so my Git commits were not done as they should have been. I also made a lot of trial-and-error changes to get things working correctly and did not want these reflected in my commit messages. However, I now realize this approach was incorrect. I have since committed my web design and will commit any further changes properly.
 
+Since I have also underlined the logo in the navbar this has not been updated in the images.
+
 ## Features
 
 ### Header
