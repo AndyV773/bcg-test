@@ -108,7 +108,11 @@ The service page is aimed at providing a brief description of the different serv
 - The website's HTML has passed the offical HTML Validator, ensuring that there are no issues and complys with web standards.
   - [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fandyv773.github.io%2Fbcg-test%2F)
 
-![screenshot of website passing html validator](assets/media/html-validator.webp)    
+![screenshot of website passing html validator](assets/media/html-validator.webp)  
+
+- **Contact Page:** There is an anchor wrapped around the form button, linking to the submit page. This bypasses all the form requirements and causes an error in the HTML validator, but it is only there for dummy purposes.
+
+![screenshot of error message in html validator for contact page regarding the form button anchor](assets/media/valid-error-contact.webp)
 
 ### CSS 
 
@@ -141,9 +145,14 @@ The service page is aimed at providing a brief description of the different serv
 
 ![lighthouse test results of contact page reading 100% on accessibility](assets/media/lighthouse-contact.webp)
 
+![screenshot of lighthouse score on contact page best practices](assets/media/lighthouse-error1-contact.webp)
+
+![screenshot of lighthouse score on contact page best practices drop down cookies](assets/media/lighthouse-error2-contact.webp)
+
 ### Unfixed Bugs
 
-
+- **Contact Page:**
+  - Iframes map, Best Practices.
 
 ## Credits 
 
