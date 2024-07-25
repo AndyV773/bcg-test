@@ -14,13 +14,18 @@ My original design placed the navbar at the bottom of the hero image, but I stru
 
 ### Header
 
+The primary purpose of the header is to provide easy navigation across the website. A key feature is the "Get a Quote" link located at the top right corner, which directs potential customers to the contact page.
+
 - **Consistent Header:** The header uses fixed positioning to remain consistent throughout the website. Originally, the navbar was intended to be displayed below the main image, but there were issues with using sticky positioning.
-- **Responsive Design:** The navbar and logo adjust for smaller screens to ensure a great user experience across all devices.
 - **Customizable Branding:** The logo and images used on the website can be easily changed to better suit the client's branding and preferences.
 - **Stylish Design:** The website includes a slight 30% fade at the bottom of the header to enhance its appearance and blend seamlessly with the hero image.
-- **Three Main Pages:** The website is structured around three main pages, providing clear and organized information about the contractor's services.
+- **Three Main Pages:** The website is structured around three main pages, providing clear and organized information about the contractor's services. It is collapsible on small devices to take up less room, along with the client branding.
 
-![screenshot of main header for the website](assets/media/header.webp)
+![screenshot of main header for the website](assets/media/large-header.webp)
+
+- **Responsive Design:** The navbar and logo adjust for smaller screens to ensure a great user experience across all devices.
+
+![screenshot of main header for small devices](assets/media/small-header.webp)
 
 ### Footer
 
@@ -42,14 +47,16 @@ The footer is a significant part of the website, designed to be consistent acros
   - Located at the bottom of the footer, this section includes copyright details.
   - A small navigation menu is also included for quick access to other parts of the site.
 
-#### Design and Accessibility
+![screenshot of the footer for the website with all relative information](assets/media/large-footer.webp)
 
-- **Two-Tone Design:** The footer is designed with two tones to visually separate different sections, enhancing the overall look and readability.
-- **Responsive Layout:** The footer is optimized to look good and function well on all devices, ensuring a consistent user experience across desktops, tablets, and smartphones.
+- **Design and Accessibility**
+
+  - **Two-Tone Design:** The footer is designed with two tones to visually separate different sections, enhancing the overall look and readability.
+  - **Responsive Layout:** The footer is optimized to look good and function well on all devices, ensuring a consistent user experience across desktops, tablets, and smartphones.
+
+![screenshot of footer layout for smaller devices](assets/media/small-footer.webp)
 
 Significant effort was dedicated to designing and implementing the footer to ensure it is both informative and visually appealing. This part of the project took up most of the development time due to the attention to detail and the need for comprehensive functionality.
-
-![screenshot of the footer for the website with all relative information](assets/media/footer.webp)
 
 ### Home Page
 
@@ -69,16 +76,16 @@ The home page is designed to engage visitors and provide them with essential inf
 
 The service page is aimed at providing a brief description of the different services offered by the contractor. Each service is presented with an image and a breif description to give potential clients a clear understanding of what is available.
 
-#### Services Offered
-- Kitchens
-- Doors
-- Architraves
-- Fencing
-- Roofing
-- Loft Extensions
-- Extensions
-- New Builds
----
+- **Services Offered:**
+  - Kitchens
+  - Doors
+  - Architraves
+  - Fencing
+  - Roofing
+  - Loft Extensions
+  - Extensions
+  - New Builds
+
 - **Main Image:** At the top of the service page, there is a large image similar to the home page, but reduced in height. The logo is positioned at the top left corner, and an interactive phone number is located at the bottom right corner with animated phone icon.
 
 ![screenshot of main image on services page](assets/media/main-image-services.webp)
@@ -89,6 +96,10 @@ The service page is aimed at providing a brief description of the different serv
 ![screenshot of the services page images](assets/media/images-services.webp)
 
 ![screenshot of the service page information](assets/media/information-services.webp)
+
+### Contact Page
+
+
 
 ## Validator Testing
 
@@ -126,24 +137,24 @@ The service page is aimed at providing a brief description of the different serv
 ![lighthouse test results of services page reading 100% on accessibility](assets/media/lighthouse-services.webp)
 
 - Contact
-  - The performance score for the contact page is lower due to the iframes maps, and cookies, which will be looked into at a later date.
+  - The Best Practices score for the contact page is lower due to the iframes maps, and cookies, which will be looked into at a later date.
 
 ![lighthouse test results of contact page reading 100% on accessibility](assets/media/lighthouse-contact.webp)
 
 ### Unfixed Bugs
 
--
 
-## Deployment 
 
 ## Credits 
 
 ### Content
 
-- The code for the css dropdown navbar was taken from the CI Love Running Project.
+- The code for the CSS dropdown navbar was taken from the CI Love Running Project.
 
 ### Media 
 
+- The Favicon icon was generated using [Ionos](https://www.ionos.co.uk/tools/favicon-generator).
+- The images have been optimised for the web and converted to .webp using [Free Convert](https://www.freeconvert.com/webp-converter).
 - The images where taken from Google.
 
 ## Usage
