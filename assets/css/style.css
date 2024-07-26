@@ -55,6 +55,7 @@ header a {
     text-decoration: none;
 }
 
+/* code credit from love running project https://code-institute-org.github.io/love-running-2.0/index.html */
 /* nav menu */
 #menu-bar {
     display: flex;

@@ -120,6 +120,33 @@ The service page is aimed at providing a brief description of the different serv
 
 ![screenshot of contact.html from i am responsive website displaying it in all sized devices](assets/media/resp-contact.webp)
 
+## Testing
+
+## Manual Testing
+
+I have conducted thorough manual testing of the website to ensure all links and functionalities are working as intended. The following steps outline the testing process:
+
+- **Header & Home Page:**
+  - Verified that the "Get a Quote" link in the header navigates to the contact page.
+  - Ensured that all other links in the header work as they should.
+  - Tested the internal links in the "Why Choose Us" section to ensure they navigate to the contact and service pages.
+
+- **Service Page:**
+  - Verified that the main image phone number and logo links work as they should.
+  - Checked that the "Get in Touch" links and images navigate to the contact section.
+
+- **Contact Page:**
+  - Ensured the interactive phone number and email links are functional.
+  - Submitted the contact form to verify redirection to the thank you page. Also tested that the form works correctly with the Code Institute form dump web page.
+  - Verified the map displays the correct location.
+
+- **Footer:**
+  - Verified that all service links in the footer navigate to the appropriate sections on the service page.
+  - Confirmed that contact details and social media links are functional.
+  - Checked that the small navigation menu in the lower footer is working correctly.
+
+Through this comprehensive manual testing, I have ensured that all links are operational and the website provides a great user experience.
+
 ## Validator Testing
 
 ### HTML
@@ -189,7 +216,7 @@ The site has been deployed to GitHub pages on GitHub.
   - In the [GitHub Repository](https://github.com/AndyV773/bcg-test), navigate to the Settings tab
   - In settings select pages in the left hand menu, select source deploy from branch
   - Branch should be main and select from root, then click "Save"
-  - Once this has been selected and saved, at the top of pages is a link to the site indicating the successful deployment.
+  - Once this has been selected and saved, the site should refresh. At the top of GitHub pages section, there will be a link to the site indicating the successful deployment.
 
 **The deployed website can be found here:** [BCG Building Contractors](https://andyv773.github.io/bcg-test)   
 
