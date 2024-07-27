@@ -232,7 +232,7 @@ Through this comprehensive manual testing, I have ensured that all links are ope
 
 ### Fixed Bugs
 
-The first fix I made, once running the HTML validator, was to replace the "</li>" closing tag in the footer with the "</ul>" closing tag. I also added a semicolon to the symbol in the copyright section.
+The first fix I made, once running the HTML validator, was to replace the "</li>" closing tag in the footer with the "</ul>" closing tag. I also added a semicolon to the symbol in the copyright section. [GitHub Commits](https://github.com/AndyV773/bcg-test/commit/4540307080a17e0c0bc12c1fed542a22d7a09321)
 
 ![screenshot of commit in github with the changes that i had made](assets/media/ul-semi-fix.webp)
 
@@ -240,17 +240,17 @@ The next issues that I had in the HTML validator were whitespaces in the href ph
 
 ![screenshot of the error messages from html validator](assets/media/html-valid-error.webp)
 
-To fix this, I removed the white spaces and replaced the H1 with an H2.
+To fix this, I removed the white spaces and replaced the H1 with an H2. [GitHub Commits](https://github.com/AndyV773/bcg-test/commit/e0591f9e85ffc288a779bd0dfecc2865b4484bb0)
 
 ![screenshot of commits changes that i made to fix the issue](assets/media/html-valid-fix.webp)
 
-I later reduced the number of headings and replaced them with "p" tags with IDs. I also adjusted the CSS code to fit, creating a better hierarchy for screen readers.
+I later reduced the number of headings and replaced them with "p" tags with IDs. I also adjusted the CSS code to fit, creating a better hierarchy for screen readers. [GitHub Commits](https://github.com/AndyV773/bcg-test/commit/a9c58fe3d22a15e84dff6025320873638077f580)
 
 ![screenshot of commit changes made for headings in html](assets/media/html-header-fix.webp)
 
 ![screenshot of commit changes made for headings in css](assets/media/css-header-fix.webp)
 
-Lastly, I went ahead and fixed the errors I encountered with the CSS validator. One issue was with the "box-sizing" property, which was causing an error. I'm not sure how it got there, but I assume it was meant to be "border-sizing". Additionally, the "rotate" property needed to be nested inside the "transform" property.
+Lastly, I went ahead and fixed the errors I encountered with the CSS validator. One issue was with the "box-sizing" property, which was causing an error. I'm not sure how it got there, but I assume it was meant to be "border-sizing". Additionally, the "rotate" property needed to be nested inside the "transform" property. [GitHub Commits](https://github.com/AndyV773/bcg-test/commit/046111864a500cef5150270cd40d83b9a87bbf00)
 
 ![screenshot of commit changes made to fix validator issue](assets/media/css-valid-fix.webp)
 
