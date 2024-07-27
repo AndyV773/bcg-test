@@ -229,6 +229,10 @@ I later reduced the number of headings and replaced them with "p" tags with IDs.
 
 ![screenshot of commit changes made for headings in css](assets/media/css-header-fix.webp)
 
+Lastly, I went ahead and fixed the errors I encountered with the CSS validator. One issue was with the "box-sizing" property, which was causing an error. I'm not sure how it got there, but I assume it was meant to be "border-sizing". Additionally, the "rotate" property needed to be nested inside the "transform" property.
+
+![screenshot of commit changes made to fix validator issue](assets/media/css-valid-fix.webp)
+
 ### Unfixed Bugs
 
 - **Contact Page:**
