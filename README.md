@@ -16,6 +16,21 @@ Since I have also underlined the logo in the navbar this has not been updated in
 
 ## Features
 
+### Color Scheme
+
+- **The site uses the following colors:**
+  - Black: #000000
+  - Onyx: #404040
+  - Silver: #CCCCCC
+  - White: #FFFFFF
+  - Old Gold: #CCBB00
+
+![screenshot of color pallets taken from coolors.co](assets/media/color-chart.webp)
+
+This color pallet was made in [Coolors](coolors.co)
+
+I also used [W3S color picker](https://www.w3schools.com/colors/colors_picker.asp) to help find the colors, and hex numbers i was after.
+
 ### Header
 
 The primary purpose of the header is to provide easy navigation across the website. A key feature is the "Get a Quote" link located at the top right corner, which directs potential customers to the contact page.
@@ -120,8 +135,6 @@ The service page is aimed at providing a brief description of the different serv
 
 ![screenshot of contact.html from i am responsive website displaying it in all sized devices](assets/media/resp-contact.webp)
 
-## Testing
-
 ## Manual Testing
 
 I have conducted thorough manual testing of the website to ensure all links and functionalities are working as intended. The following steps outline the testing process:
@@ -179,6 +192,7 @@ Through this comprehensive manual testing, I have ensured that all links are ope
 
 - Home
   - I have made sure that the website has achieved a 100% accessibility score in Lighthouse testing, ensuring it is user-friendly and accessible to all visitors.
+  - To do this I adjusted text colors and button sizes.
 
 ![lighthouse test results of home page reading 100% on accessibility](assets/media/lighthouse-index.webp)
 
@@ -194,6 +208,8 @@ Through this comprehensive manual testing, I have ensured that all links are ope
 ![screenshot of lighthouse score on contact page best practices](assets/media/lighthouse-error1-contact.webp)
 
 ![screenshot of lighthouse score on contact page best practices drop down cookies](assets/media/lighthouse-error2-contact.webp)
+
+### Fixed Bugs
 
 ### Unfixed Bugs
 
