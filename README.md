@@ -14,6 +14,27 @@ My original design placed the navbar at the bottom of the hero image, but I stru
 
 Since I have also underlined the logo in the navbar this has not been updated in the images.
 
+## User Stories
+
+### New User
+
+- **Understanding the Services:** I want to quickly understand what building services the contractor offers.
+- **Easy Navigation:** I want to be able to explore all the available services and information on the site easily.
+- **Service Visibility:** I want to see the range of services, such as kitchens, doors, architraves, fencing, roofing, loft conversions, extensions, and new builds, immediately.
+- **Getting Answers:** If I have questions about the services or need a quote, I should be able to get answers easily through a contact system.
+
+### Returning User
+
+- **Checking for Updates:** I want to come back to the site often to see if there are any new services or updates.
+- **Detailed Information:** I want to return to the site for detailed information about specific building services.
+- **Project Inspiration:** I want to see examples of completed projects for inspiration and assurance of quality.
+
+### Other Customer Scenarios
+
+- **Understanding Services and Pricing:** I’m a potential customer who wants to know the costs and availability of the services offered.
+- **Contact and Quotes:** I want to be able to easily contact the contractor for quotes and further inquiries about my specific building needs.
+- **Visualizing the Work:** I want to see images and descriptions of past work to help visualize what the contractor can do for my project.
+
 ## Features
 
 ### Color Scheme
