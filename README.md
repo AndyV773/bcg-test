@@ -192,7 +192,7 @@ Through this comprehensive manual testing, I have ensured that all links are ope
 
 - Home
   - I have made sure that the website has achieved a 100% accessibility score in Lighthouse testing, ensuring it is user-friendly and accessible to all visitors.
-  - To do this I adjusted text colors and button sizes.
+  - To do this I adjusted text colors/shadows, backgrounds and button sizes.
 
 ![lighthouse test results of home page reading 100% on accessibility](assets/media/lighthouse-index.webp)
 
@@ -210,6 +210,24 @@ Through this comprehensive manual testing, I have ensured that all links are ope
 ![screenshot of lighthouse score on contact page best practices drop down cookies](assets/media/lighthouse-error2-contact.webp)
 
 ### Fixed Bugs
+
+The first fix I made, once running the HTML validator, was to replace the "</li>" closing tag in the footer with the "</ul>" closing tag. I also added a semicolon to the symbol in the copyright section.
+
+![screenshot of commit in github with the changes that i had made](assets/media/ul-semi-fix.webp)
+
+The next issues that I had in the HTML validator were whitespaces in the href phone number and an H1 issue.
+
+![screenshot of the error messages from html validator](assets/media/html-valid-error.webp)
+
+To fix this, I removed the white spaces and replaced the H1 with an H2.
+
+![screenshot of commits changes that i made to fix the issue](assets/media/html-valid-fix.webp)
+
+I later reduced the number of headings and replaced them with "p" tags with IDs. I also adjusted the CSS code to fit, creating a better hierarchy for screen readers.
+
+![screenshot of commit changes made for headings in html](assets/media/html-header-fix.webp)
+
+![screenshot of commit changes made for headings in css](assets/media/css-header-fix.webp)
 
 ### Unfixed Bugs
 
