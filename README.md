@@ -285,6 +285,7 @@ The site has been deployed to GitHub pages on GitHub.
 
 - The code for the CSS dropdown navbar was taken from the [CI Love Running Project](https://code-institute-org.github.io/love-running-2.0/index.html).
 - The icons used in the website come from [Font Awesome](https://fontawesome.com/).
+- [W3S Web 3 School](https://www.w3schools.com/) has been used throughout the project as a reference to help remind me about various elements such as iframes and textarea. It was also used for gradient colors and text shadows.
 
 ### Media 
 
