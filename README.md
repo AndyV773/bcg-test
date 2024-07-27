@@ -48,7 +48,7 @@ Since I have also underlined the logo in the navbar this has not been updated in
 
 ![screenshot of color pallets taken from coolors.co](assets/media/color-chart.webp)
 
-This color pallet was made in [Coolors](coolors.co)
+This color pallet was made in [Coolors](https://coolors.co)
 
 I also used [W3S color picker](https://www.w3schools.com/colors/colors_picker.asp) to help find the colors, and hex numbers i was after.
 
